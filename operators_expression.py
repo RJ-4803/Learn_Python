@@ -9,3 +9,12 @@ print(a / b)  # Division
 print(a % b)  # Modulus
 print(a ** b)  # Exponentiation
 print(a // b)  # Floor Division
+
+
+# Comparison Operators
+print(a == b)  # Equal
+print(a != b)  # Not Equal
+print(a > b)   # Greater Than
+print(a < b)   # Less Than
+print(a >= b)  # Greater Than or Equal
+print(a <= b)  # Less Than or Equal
