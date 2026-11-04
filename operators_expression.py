@@ -18,3 +18,11 @@ print(a > b)   # Greater Than
 print(a < b)   # Less Than
 print(a >= b)  # Greater Than or Equal
 print(a <= b)  # Less Than or Equal
+
+#Logical Operators
+c= True  # Assigning boolean value True to variable c
+d= False  # Assigning boolean value False to variable d
+
+print(c and d)  # Logical AND
+print(c or d)   # Logical OR
+print(not c)    # Logical NOT
